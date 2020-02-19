@@ -1,10 +1,10 @@
-# W01D01-HW
+# W01D02-HW
 
 ## Command Line / Interview Questions
 
 ### 1.To-OZ - EST TIME: 1hr
 
-1. Go to [To-OZ](https://git.generalassemb.ly/SEIR-224/to-oz).
+1. Go to [Instagram Quotes]().
 2. Fork and Clone the repo.
 3. Create a Pull Request with the required info.
 4. Complete the assignment and update Pull Request with details.
