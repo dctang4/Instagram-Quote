@@ -2,7 +2,7 @@
 
 ## Command Line / Interview Questions
 
-### 1.To-OZ - EST TIME: 1hr
+### 1.Instagram Quotes - EST TIME: 1hr
 
 1. Go to [Instagram Quotes]().
 2. Fork and Clone the repo.
@@ -12,7 +12,7 @@
 
 ### 2. Read/Watch The Following - EST TIME: 20min
 
-1. 
+1. Watch: [Creating An Instagram Quote](https://www.youtube.com/channel/UCARIeS2D7sv1o2TX9qffZ9Q?view_as=subscriber)
 
 
 ### 3. ALGO PRACTICE - EST TIME: 20min
