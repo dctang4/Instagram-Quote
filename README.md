@@ -12,7 +12,7 @@
 
 ### 2. Read/Watch The Following - EST TIME: 20min
 
-1. Watch: [Creating An Instagram Quote](https://www.youtube.com/channel/UCARIeS2D7sv1o2TX9qffZ9Q?view_as=subscriber)
+1. Watch: [Creating An Instagram Quote - Vids 4 & 5](https://www.youtube.com/channel/UCARIeS2D7sv1o2TX9qffZ9Q?
 2. Read: [Inspect and Edit Page Styles in Dev Tools](https://developers.google.com/web/tools/chrome-devtools/inspect-styles/)
 
 
