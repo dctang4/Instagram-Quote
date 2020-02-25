@@ -4,7 +4,7 @@
 
 ### 1.Instagram Quotes - EST TIME: 1hr
 
-1. Go to [Instagram Quotes]().
+1. Go to [Instagram Quotes](https://git.generalassemb.ly/SEIR-224/instagram-quotes/blob/master/README.md).
 2. Fork and Clone the repo.
 3. Create a Pull Request with the required info.
 4. Complete the assignment and update Pull Request with details.
