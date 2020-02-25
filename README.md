@@ -5,7 +5,7 @@
 ### 1.Instagram Quotes - EST TIME: 1hr
 
 1. Go to [Instagram Quotes](https://git.generalassemb.ly/SEIR-224/instagram-quotes/blob/master/README.md).
-2. Create an Issue ticket on this repo in the same format you did yesterday 
+2. Create an Issue ticket in the above repo in the same format you did yesterday. 
 
 
 ### 2. Read/Watch The Following - EST TIME: 20min
