@@ -6,7 +6,7 @@
 2. Create an Issue ticket in the above repo in the same format you did yesterday. 
 
 
-### 2. Read/Watch The Following - EST TIME: 20min
+### 2. Read/Watch The Following - EST TIME: 40min
 
 1. Watch: [Creating An Instagram Quote - Vids 1 - 5](https://www.youtube.com/playlist?list=PL_vCSejjQiPyr7dbj-oJ8vjttYid9VWsb)
 2. Read: [Inspect and Edit Page Styles in Dev Tools](https://developers.google.com/web/tools/chrome-devtools/inspect-styles/)
