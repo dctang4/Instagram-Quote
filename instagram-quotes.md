@@ -13,9 +13,8 @@
 
 The CSS section in the starter code contains the name of the Google Font(s) to import and the url to the background image. 
 
-#### Required: (2 must be completed)
+#### Required
  - Awaken Curiosity: https://codepen.io/jkeohan/pen/rNVjRbR
- - Either create one or both of the bonus optionds or create your own unique quote
 
 #### Bonuses
 
