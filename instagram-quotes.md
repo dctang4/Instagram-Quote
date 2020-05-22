@@ -23,9 +23,9 @@ If your up to it try recreating the following Instagram Quotes.
  - Bonus #1: Live Simply: 
    - Live Example: https://codepen.io/jkeohan/live/PrJNqJ
    - Starter Codepen: https://codepen.io/jkeohan/pen/VwLPNam
- - Bonus #2: Live In Such A Way: https://codepen.io/jkeohan/pen/VwLPNKm
+ - Bonus #2: Live In Such A Way: 
    - Live Example: https://codepen.io/jkeohan/live/JQOJbN
-   - Starter Codepen: 
+   - Starter Codepen: https://codepen.io/jkeohan/pen/VwLPNKm
 
 ### Install and use the following tools:
   * [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en) : Use ColorZilla to elicit the font colors from the provided images
