@@ -4,8 +4,8 @@
 
  - Read through the instruction completely before taking any action
  - Using HTMl/CSS recreate an Instagram quote(s)
- - When commpleted add a link to your codepen [here](https://docs.google.com/spreadsheets/d/1fNOTPbQu-ZWDPwOhjSIkot7pGj2u2ZPuNk_O_yQwyHU/edit?usp=sharing)
- - In you haven't already done so watch the following [Instagram Workshop](https://www.youtube.com/playlist?list=PL_vCSejjQiPyr7dbj-oJ8vjttYid9VWsb) youtube tutorial.
+ - When commpleted submit your homework [here](https://docs.google.com/forms/u/3/d/e/1FAIpQLSezWVG8OLr6ZxmRNOwZ6xsoYO5lu_7L1LTWA3X6iclG4iG_Hw/viewform?usp=send_form)
+ - Watch the following [Instagram Workshop](https://www.youtube.com/playlist?list=PL_vCSejjQiPyr7dbj-oJ8vjttYid9VWsb) 5 part youtube tutorial.
 
 ![quotes](https://i.imgur.com/Rq4A6Kt.png)
 
