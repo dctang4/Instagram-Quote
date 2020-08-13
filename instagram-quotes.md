@@ -3,7 +3,7 @@
 ## Instructions
 
  - Read through the instruction completely before taking any action
- - Using HTMl/CSS recreate an Instagram quote
+ - Using HTMl/CSS recreate one of the following Instagram quotes
  - When commpleted submit your homework [here](https://docs.google.com/forms/u/3/d/e/1FAIpQLSezWVG8OLr6ZxmRNOwZ6xsoYO5lu_7L1LTWA3X6iclG4iG_Hw/viewform?usp=send_form).  You will only submit the form one time and only for the required instagram quote.
  - Watch the following [Instagram Workshop](https://www.youtube.com/playlist?list=PL_vCSejjQiPyr7dbj-oJ8vjttYid9VWsb) 5 part youtube tutorial.
 
