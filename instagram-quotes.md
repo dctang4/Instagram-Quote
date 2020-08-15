@@ -4,7 +4,7 @@
 
  - Read through the instruction completely before taking any action
  - Using HTMl/CSS recreate one of the following Instagram quotes
- - **Optional:** Watch the following [Instagram Workshop](https://www.youtube.com/playlist?list=PL_vCSejjQiPyr7dbj-oJ8vjttYid9VWsb) 5 part youtube tutorial.
+ - **Optional:** Watch the entire 5 part youtube tutorial [Instagram Workshop](https://www.youtube.com/playlist?list=PL_vCSejjQiPyr7dbj-oJ8vjttYid9VWsb) 
 
 ![quotes](https://i.imgur.com/Rq4A6Kt.png)
 
