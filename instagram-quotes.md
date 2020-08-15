@@ -6,7 +6,7 @@
  - Using HTMl/CSS recreate one of the following Instagram quotes
  - **Optional:** Watch the entire 5 part youtube tutorial [Instagram Workshop](https://www.youtube.com/playlist?list=PL_vCSejjQiPyr7dbj-oJ8vjttYid9VWsb) 
 
-![quotes](https://i.imgur.com/Rq4A6Kt.png)
+<img src="https://i.imgur.com/Rq4A6Kt.png" width=600/>
 
 ### Starter Code
 
