@@ -10,7 +10,7 @@
 
 ### Starter Code
 
-Fork the starter code provided below. The CSS section in the starter code contains the name of the Google Font(s) to import and the url to the background image. 
+Fork the starter code provided below. The CSS section in the starter code contains the name of the Google Font(s) to import and the url to the background image. If you haven't already watched the video on importing and applying Google Fonts then do so. 
 
 #### Required
  - Awaken Curiosity: https://codepen.io/jkeohan/pen/rNVjRbR
