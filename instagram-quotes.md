@@ -19,10 +19,10 @@ Fork the starter code provided below. The CSS section in the starter code contai
 
 If your up to it try recreating the following Instagram Quotes. 
 
- - Bonus #1: Live Simply: 
+ - **Bonus #1:** Live Simply: 
    - Live Example: https://codepen.io/jkeohan/live/PrJNqJ
    - Starter Codepen: https://codepen.io/jkeohan/pen/VwLPNam
- - Bonus #2: Live In Such A Way: 
+ - **Bonus #2:** Live In Such A Way: 
    - Live Example: https://codepen.io/jkeohan/live/JQOJbN
    - Starter Codepen: https://codepen.io/jkeohan/pen/VwLPNKm
 
