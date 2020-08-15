@@ -17,7 +17,7 @@ Fork the starter code provided below. The CSS section in the starter code contai
 
 #### Bonuses
 
-If your up to it try recreating the following Instagram Quotes. 
+Try recreating the following Instagram Quotes as well: 
 
  - **Bonus #1:** Live Simply: 
    - Live Example: https://codepen.io/jkeohan/live/PrJNqJ
@@ -29,6 +29,6 @@ If your up to it try recreating the following Instagram Quotes.
 ### Install and use the following tools:
   * [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en) : Use ColorZilla to elicit the colors from the provided images
 
-### Additionally, create accounts for the following sites if you have not done so already:
+### Create accounts for the following sites if you have not done so already:
 - [Unsplash](https://unsplash.com/)
 - [Cloudinary](https://cloudinary.com/)
