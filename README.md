@@ -8,11 +8,13 @@
 
 ### 2. Read/Watch The Following - EST TIME: 40min
 
-1. Watch: [Creating An Instagram Quote - Vid 4 - Importing Custom Google Fonts](https://www.youtube.com/playlist?list=PL_vCSejjQiPyr7dbj-oJ8vjttYid9VWsb)
-2. Read: [Inspect and Edit Page Styles in Dev Tools](https://developers.google.com/web/tools/chrome-devtools/inspect-styles/)
+- Read: [Inspect and Edit Page Styles in Dev Tools](https://developers.google.com/web/tools/chrome-devtools/inspect-styles/)
+- Watch: [Creating An Instagram Quote - Vid 4 - Importing Custom Google Fonts](https://www.youtube.com/playlist?list=PL_vCSejjQiPyr7dbj-oJ8vjttYid9VWsb)
+
 
 **Bonus**
-- [The Difference Between Id-and-Class](https://css-tricks.com/the-difference-between-id-and-class/)
+- Read: [The Difference Between Id-and-Class](https://css-tricks.com/the-difference-between-id-and-class/)
+- Watch: [The Art Of Learning](https://www.youtube.com/watch?v=qS5Q5KPU_No)
 
 
 ### 3. ALGO PRACTICE - EST TIME: 20min
