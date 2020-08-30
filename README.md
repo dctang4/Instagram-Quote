@@ -3,7 +3,9 @@
 ### 1.Instagram Quotes - EST TIME: 1-2hrs
 
 1. Go to [Instagram Quotes](./instagram-quotes.md).
-2. When completed submit your homework [here](https://forms.gle/Nf55kRfVy4pG3y4P7).  You will only submit the form one time and only for the required instagram quote.
+2. When completed submit your homework [here](https://forms.gle/Nf55kRfVy4pG3y4P7).  
+
+**NOTE:** You will only submit the form one time and only for the required instagram quote.
 
 
 ### 2. Read/Watch The Following - EST TIME: 40min - 1.5hrs
