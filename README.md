@@ -10,9 +10,12 @@
 
 ### 2. Read/Watch The Following - EST TIME: 40min - 1.5hrs
 
-- Read: [Asking Effective Questions](https://git.generalassemb.ly/ga-wdi-lessons/effective_questions)
-- Read: [Inspect and Edit Page Styles in Dev Tools](https://developers.google.com/web/tools/chrome-devtools/inspect-styles/)
-- Watch: [Creating An Instagram Quote - Vid 4 - Importing Custom Google Fonts](https://www.youtube.com/playlist?list=PL_vCSejjQiPyr7dbj-oJ8vjttYid9VWsb)
+**Read**
+- [Asking Effective Questions](https://git.generalassemb.ly/ga-wdi-lessons/effective_questions)
+- [Inspect and Edit Page Styles in Dev Tools](https://developers.google.com/web/tools/chrome-devtools/inspect-styles/)
+
+**Watch**
+-[Creating An Instagram Quote - Vid 4 - Importing Custom Google Fonts](https://www.youtube.com/playlist?list=PL_vCSejjQiPyr7dbj-oJ8vjttYid9VWsb)
 
 **Bonus**
 - Read: [The Difference Between Id-and-Class](https://css-tricks.com/the-difference-between-id-and-class/)
