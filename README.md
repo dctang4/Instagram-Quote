@@ -31,8 +31,8 @@
 
 ### 4.  INTERVIEW PRACTICE - EST TIME: 10-15min
 
-1.  Create and Share a New Google Doc. The permsissions should allow anyone to view the document so please ask another student to confirm the doc is indeed shared. 
-2. Answer to the following interview question:
+- Create and Share a New Google Doc. The permsissions should allow anyone to view the document so please ask another student to confirm the doc is indeed shared. 
+- Answer to the following interview question:
   **What one skill do you possess that you feel has contributed most to your success thus far in your career?**.
-3. All answers must be at least a paragraph in length however the more you write the more you have to talk about.
-4. Add a link to your shared google doc here: [spreadheet](https://docs.google.com/spreadsheets/d/1OXgRGHbumLaDg7Jukanh2SN-ejGRICdVw5WaBIsMWf8/edit?usp=sharing) 
+- All answers must be at least a paragraph in length however the more you write the more you have to talk about.
+- Add a link to your shared google doc here: [spreadheet](https://docs.google.com/spreadsheets/d/1OXgRGHbumLaDg7Jukanh2SN-ejGRICdVw5WaBIsMWf8/edit?usp=sharing) 
