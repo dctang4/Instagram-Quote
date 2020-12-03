@@ -24,14 +24,15 @@
 - Watch: [The Art Of Learning](https://www.youtube.com/watch?v=qS5Q5KPU_No)
 
 
-### 3. ALGO PRACTICE - EST TIME
+### 3. JavaScript Primer - EST TIME: 30min
 
-None assigned at this time
+- [Scopes And Variables](https://git.generalassemb.ly/SEIR-1207/JS_Primer_Homework/tree/master/night_one)
 
 
 ### 4.  INTERVIEW PRACTICE - EST TIME: 10-15min
 
-1.  Create and Share a New Google Doc.  The permsissions should allow anyone to view the document. 
-2. Answer to the following interview question: **What one skill do you possess that you feel has contributed most to your success thus far in your career?**.
+1.  Create and Share a New Google Doc. The permsissions should allow anyone to view the document so please ask another student to confirm the doc is indeed shared. 
+2. Answer to the following interview question:
+  **What one skill do you possess that you feel has contributed most to your success thus far in your career?**.
 3. All answers must be at least a paragraph in length however the more you write the more you have to talk about.
 4. Add a link to your shared google doc here: [spreadheet](https://docs.google.com/spreadsheets/d/1zY0vC3so5QxcVwtKipoEuqCl9dtsbz6cW_5-gXBWjE8/edit?usp=sharing) 
