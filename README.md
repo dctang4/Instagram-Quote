@@ -17,7 +17,7 @@
 
 **Watch**
 
--[Creating An Instagram Quote - Vid 4 - Importing Custom Google Fonts](https://www.youtube.com/playlist?list=PL_vCSejjQiPyr7dbj-oJ8vjttYid9VWsb)
+- [Creating An Instagram Quote - Vid 4 - Importing Custom Google Fonts](https://www.youtube.com/playlist?list=PL_vCSejjQiPyr7dbj-oJ8vjttYid9VWsb)
 
 **Bonus**
 - Read: [The Difference Between Id-and-Class](https://css-tricks.com/the-difference-between-id-and-class/)
