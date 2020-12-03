@@ -1,6 +1,6 @@
 ## Command Line / Interview Questions
 
-### 1.Instagram Quotes - EST TIME: 1-2hrs
+### 1. Instagram Quotes - EST TIME: 1-2hrs
 
 1. Go to [Instagram Quotes](./instagram-quotes.md).
 2. When completed submit your CodePen [here](https://forms.gle/WUmrckYALGGUZjA27).  
@@ -29,7 +29,7 @@
 - [Scopes And Variables](https://git.generalassemb.ly/SEIR-1207/JS_Primer_Homework/tree/master/night_one)
 
 
-### 4.  INTERVIEW PRACTICE - EST TIME: 10-15min
+### 4. INTERVIEW PRACTICE - EST TIME: 10-15min
 
 - Create and Share a New Google Doc. The permsissions should allow anyone to view the document so please ask another student to confirm the doc is indeed shared. 
 - Answer to the following interview question:
