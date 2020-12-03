@@ -2,8 +2,8 @@
 
 ### 1. Instagram Quotes - EST TIME: 1-2hrs
 
-1. Go to [Instagram Quotes](./instagram-quotes.md).
-2. When completed submit your CodePen via the HW Submission Form pinned to the classroom channel.
+- Go to [Instagram Quotes](./instagram-quotes.md).
+- When completed submit your CodePen via the HW Submission Form pinned to the classroom channel.
 
 **NOTE:** You will only submit the form one time and only for the required instagram quote.
 
