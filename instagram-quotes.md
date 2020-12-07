@@ -11,7 +11,7 @@
 
 Fork the starter code provided below. The CSS section in the starter code contains the name of the Google Font(s) to import and the url to the background image. 
 
-**Watch** this [video on how to import Google Fonts](https://git.generalassemb.ly/SEIR-1207/W01D01-HW.git)
+**Watch** this [video on how to import Google Fonts](https://www.youtube.com/watch?v=ms5DenhaBOE)
 
 
 #### Required
