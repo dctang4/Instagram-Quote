@@ -12,8 +12,9 @@
 
 Fork the starter code provided below. The CSS section in the starter code contains the name of the Google Font(s) to import and the url to the background image. 
 
-**Note:** The Google Font's aren't required for this exercise unless the lecture included a full demo on how to use them. They are provided only if you would like some additional challenge of importing fonts, otherwise explore the default fonts that come with most browsers and choose one that works for you.
+**Watch** this [video on how to import Google Fonts](https://git.generalassemb.ly/SEIR-1207/W01D01-HW.git)
 
+Optionally you can use fonts using the following sites/tools:
 - [5 Generic Fonts](https://www.w3.org/Style/Examples/007/fonts.en.html)
 - [Font Generator](https://html-css-js.com/css/generator/font/)
 
@@ -21,9 +22,9 @@ Fork the starter code provided below. The CSS section in the starter code contai
 The CSS section in the starter code contains the name of the Google Font(s) to import and the url to the background image. 
  - Awaken Curiosity: https://codepen.io/jkeohan/pen/rNVjRbR
 
-#### Bonuses
+#### Bonus
 
-Try recreating the following Instagram Quotes as well. The CSS section in the starter code contains the name of the Google Font(s) to import and the url to the background image. 
+Try your hand at recreating any one of the following Instagram Quotes. The CSS section in the starter code contains the name of the Google Font(s) to import and the url to the background image. 
 
  - **Bonus #1:** Live Simply: 
    - Live Example: https://codepen.io/jkeohan/live/PrJNqJ
