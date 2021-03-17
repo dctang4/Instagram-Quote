@@ -25,7 +25,7 @@
 
 ### 3. JavaScript Primer - EST TIME: 30min
 
-- [Scopes And Variables](https://git.generalassemb.ly/SEIR-1207/JS_Primer_Homework/tree/master/night_one)
+- [Scopes And Variables](https://git.generalassemb.ly/SEIR-329/JS_Primer_Homework/tree/master/night_one)
 
 
 ### 4. INTERVIEW PRACTICE - EST TIME: 10-15min
