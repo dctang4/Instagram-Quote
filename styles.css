@@ -1,0 +1,66 @@
+/* 
+  Import the following Google Fonts / Font Weight:
+   - Mali / 700
+   - Montserrat / 600
+  
+   Use the following Background Image
+    - https://images.unsplash.com/photo-1496404690491-28c5b1ecde19?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60
+
+ */
+
+ @import url('https://fonts.googleapis.com/css2?family=Mali:wght@700&family=Montserrat:wght@600;700;800;900&display=swap');
+
+ * {
+   box-sizing: border-box;
+ /*   border: 1px solid; */
+ }
+ 
+ article {
+   width: 390px;
+   height: 320px;
+   border: 1px solid;
+   text-align: center;
+   letter-spacing: 2px;
+   line-height: 1;
+   background-image: url(https://images.unsplash.com/photo-1496404690491-28c5b1ecde19?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+   background-position: -55px 0px;
+   margin: auto;
+ }
+ 
+ p {
+   font-family: 'Montserrat';
+   font-size: 13px;
+   font-weight: 800;
+   text-transform: uppercase;
+   margin: 9px;
+   color: white;
+ }
+ 
+ span {
+   font-family: "Mali";
+   font-size: 16px;
+ }
+ 
+ .first-line {
+   margin-top: 14px;
+ }
+ 
+ .facts {
+   color: #9E5E60;
+ }
+ 
+ .curiosity {
+   color: #FCC524;
+ }
+ 
+ .lifetime {
+   color: #CF7955;
+ }
+ 
+ .ian {
+   text-align: right;
+   font-size: 12px;
+   font-style: italic;
+   margin-right: 18px;
+ }
+ 
